@@ -2,6 +2,38 @@ body {
     padding: 0%;
     margin: 0%;
 }
-.img img{
-    width: 100%;
+.yellow {
+    max-height: 100%;
+    width: 13%;
+    background-color: #FFDC00;
+    float: left;
+    padding-bottom: 50%;
+}
+.yellow img {
+    border-radius: 50%;
+    margin-top: 5%;
+    margin-left: 5%;
+    width: 80%;
+    height: 80%;
+}
+.header {
+    width: 87%;
+    float: right;
+}
+.header p {
+    margin-left: 3%;
+}
+.adam {
+    margin-top: 2%;
+    font-size: 2vw;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.beijar {
+    margin-top: -2%;
+    font-size: 3vw;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.r-l-t {
+    padding-right: 50%;
+    background-color: black;
 }
