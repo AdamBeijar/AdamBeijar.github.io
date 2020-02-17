@@ -3,11 +3,11 @@ body {
     margin: 0%;
 }
 .yellow {
-    max-height: 100%;
+    max-height: 0%;
     width: 13%;
     background-color: #FFDC00;
     float: left;
-    padding-bottom: 50%;
+    padding-bottom: 39.6%;
 }
 .yellow img {
     border-radius: 50%;
@@ -25,15 +25,88 @@ body {
 }
 .adam {
     margin-top: 2%;
-    font-size: 2vw;
+    font-size: 2.7vw;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
 .beijar {
     margin-top: -2%;
-    font-size: 3vw;
+    font-size: 4vw;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
-.r-l-t {
-    padding-right: 50%;
+.date {
+    font-size: 0.7vw;
+}
+.line {
+    width: 30%;
     background-color: black;
+    padding-top: 0.7%;
+    float: right;
+}
+.rline {
+    width: 40%;
+    background-color: black;
+    padding-top: 0.7%;
+    float: right;
+}
+.left {
+    float: left;
+}
+.right {
+    float: right;
+}
+.second {
+    width: 87%;
+    float: right;
+}
+.heading {
+    font-size: 1.8vw;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.kunskap {
+    margin-left: 3%;
+    margin-top: 1%;
+    float: left;
+    width: 50%;
+}
+.text {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.2vw;
+    margin-left: 3%;
+}
+.utbildning {
+    float: right;
+    width: 46%;
+    margin-top: 1%;
+}
+.course {
+    margin-left: 3%;
+}
+.bline {
+    width: 30%;
+    background-color: black;
+    padding-top: 0.2%;
+    float: left;
+}
+.brline {
+    width: 40%;
+    background-color: black;
+    padding-top: 0.2%;
+    float: right;
+}
+.blines {
+    margin-top: 28%;
+}
+.third {
+    width: 87%;
+    float: right;
+}
+.language {
+    margin-left: 3%;
+    margin-top: 1%;
+    float: left;
+}
+.kontakt {
+    float: right;
+    width: 46%;
+    margin-top: 1%;
 }
